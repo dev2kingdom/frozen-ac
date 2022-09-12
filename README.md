@@ -4,7 +4,6 @@ ______
 
 
 
-______
 Master Project & Game Server
 
 Website: http://www.dev2kingdom.net/
@@ -14,7 +13,7 @@ GitHub : https://github.com/dev2kingdom/frozen-ac
 ______
 
 
-______
+
 
 Project Resources & Guides
 
